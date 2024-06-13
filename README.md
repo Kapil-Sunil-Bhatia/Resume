@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Resume Builder application developed using the MERN stack (MongoDB, Express, React, and Node.js). The aim of this project is to provide a professional resume-building tool that users can use without relying on third-party websites or software like MS Word. This README provides an overview of the course content, project functionalities, and how to set up and run the application.
+This project is a Resume Builder application developed using the MERN stack (MongoDB, Express, React, and Node.js). This project aims to provide a professional resume-building tool that users can use without relying on third-party websites or software like MS Word. This README provides an overview of the course content, project functionalities, and how to set up and run the application.
 
 ## Course Content and Learning Outcomes
 
@@ -14,7 +14,7 @@ Throughout the course, I have gained comprehensive knowledge and hands-on experi
 - **MongoDB**: Worked with MongoDB, a popular non-relational database, to store and manage application data.
 - **Full-Stack Application Development**: Developed a full-stack resume builder application capable of running in both local and production environments.
 - **Deployment**: Deployed the application to Heroku, making it accessible in a live production environment.
-- **24/7 Support**: Received continuous support throughout the course to resolve any issues and clarify doubts.
+- **24/7 Support**: Received continuous support throughout the course to resolve issues and clarify doubts.
 
 ## Technologies Used
 
@@ -37,8 +37,8 @@ To set up and run this project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Kapil-Sunil-Bhatia/mern-resume-builder.git
-    cd mern-resume-builder
+    git clone https://github.com/Kapil-Sunil-Bhatia/Resume.git
+    cd Resume
     ```
 
 2. **Install Dependencies**:
@@ -82,8 +82,8 @@ To set up and run this project locally, follow these steps:
 
 ## Conclusion
 
-By completing this course and developing the MERN Stack Resume Builder, I have acquired essential skills in full-stack web development, project deployment, and working with modern web technologies. This project serves as a testament to my capabilities in building real-world applications using the MERN stack.
+By completing this course and developing the MERN Stack Resume Builder, I have acquired essential skills in full-stack web development, project deployment, and working with modern web technologies. This project is a testament to my capabilities in building real-world applications using the MERN stack.
 
 ## Contact
 
-For any questions or support, please contact me at [ksbcell12@gmail.com](mailto:ksbcell12@gmail.com).
+For any questions or support, please get in touch with me at [ksbcell12@gmail.com](mailto:ksbcell12@gmail.com).
