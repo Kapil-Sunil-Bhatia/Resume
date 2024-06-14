@@ -1,11 +1,12 @@
 .layout{
     height: 100vh;
     padding: 20px 50px;
+    background-image: radial-gradient( circle farthest-corner at 5.3% 17.2%,  rgba(255,208,253,1) 0%, rgba(255,237,216,1) 90% );
 }
 
 .header{
     height: 10%;
-    background-color: rgba(0, 0, 0, 0.85);
+    background-color: #1679AB;
     border-radius: 5px;
     display: flex;
     justify-content: space-between;
@@ -13,12 +14,12 @@
     padding: 10px 20px;
 }
 .header h1{
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255);
     font-size: 22px;
 }
 .header button{
     border: 1px solid white !important;
-    color: rgba(255, 255, 255, 0.589) !important;
+    color: rgba(255, 255, 255) !important;
 }
 .content{
     height: 87%;

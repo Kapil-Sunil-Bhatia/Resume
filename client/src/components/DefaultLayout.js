@@ -51,7 +51,7 @@ function DefaultLayout(props) {
                     <Button icon={<UserOutlined />}>{user.username}</Button>
                 </Dropdown>
             </div>
-            <div className="content" style={{ overflow: 'scroll' }}>{props.children}</div>
+            <div className="content" style={{ overflow: 'scroll', backgroundColor: 'white' }}>{props.children}</div>
         </div>
     )
 }

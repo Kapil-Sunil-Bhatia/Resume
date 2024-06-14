@@ -29,7 +29,6 @@ function Login() {
     return (
         <div className="auth-parent">
             {loading && <Spin size="large" />}
-            <h1 className="brand">CV Builder</h1>
             <Form layout="vertical" onFinish={onFinish}>
                 <h1>Login</h1>
                 <hr />
@@ -41,10 +40,20 @@ function Login() {
                 </Form.Item>
 
                 <div className="d-flex align-items-center justify-content-between">
-                    <Link to="/register">Click Here to Register</Link>
+                    <Link to="/register">
+                        <Button type="primary" htmlType="submit"> Click Here to Register</Button>
+                    </Link>
+                    {/* <Link to="/register">Click Here to Register</Link> */}
                     <Button type="primary" htmlType="submit">
                         LOGIN
                     </Button>
+                </div>
+                <br></br>
+                <div className="d-flex align-items-center justify-content-between">
+                    <Link to="/about">
+                        <Button type="primary"> Click Here to Know More</Button>
+                    </Link>
+
                 </div>
             </Form>
         </div>

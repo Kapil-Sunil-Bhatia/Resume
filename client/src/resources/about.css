@@ -1,0 +1,25 @@
+.box{
+/* background: linear-gradient(to right, #9796f0, #fbc7d4); */
+background-image: radial-gradient( circle farthest-corner at 5.3% 17.2%,  rgba(255,208,253,1) 0%, rgba(255,237,216,1) 90% );
+height: 100vh;
+padding: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+
+.social
+{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.buttonIcons{
+    background-color: transparent !important;
+}
+.heading{
+    font-weight: bolder !important;
+}

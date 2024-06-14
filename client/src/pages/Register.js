@@ -26,7 +26,6 @@ function Register() {
     return (
         <div className="auth-parent">
             {loading && (<Spin size="large" />)}
-            <h1 className="brand">CV Builder</h1>
             <Form layout="vertical" onFinish={onFinish}>
 
                 <h1>Register</h1>
@@ -42,7 +41,9 @@ function Register() {
                 </Form.Item>
 
                 <div className="d-flex algin-items-center justify-content-between">
-                    <Link to='/login'> Click here to Login</Link>
+                    <Link to="/login">
+                        <Button type="primary" htmlType="submit"> Click Here to Login</Button>
+                    </Link>
                     <Button type="primary" htmlType="submit">Register</Button>
                 </div>            </Form>
         </div>
