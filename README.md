@@ -1,4 +1,4 @@
-# MERN Stack Resume Builder
+# Prohect 1: MERN Stack Resume Builder
 
 ## Project Overview
 
