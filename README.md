@@ -79,11 +79,13 @@ To set up and run this project locally, follow these steps:
 - **View Resumes**: Users can view their saved resumes.
 - **Delete Resumes**: Users can delete resumes they no longer need.
 
+## Team Contribution
+This project was a collaborative effort by a team of two people:
+- **Dakshita Kolte**: Contributed to the backend development.
+- **Kapil Bhatia**: Contributed to the frontend development and design.
 
+Together, both have built this project, and the code is available on GitHub.
 ## Conclusion
 
 By completing this course and developing the MERN Stack Resume Builder, I have acquired essential skills in full-stack web development, project deployment, and working with modern web technologies. This project is a testament to my capabilities in building real-world applications using the MERN stack.
 
-## Contact
-
-For any questions or support, please get in touch with me at [ksbcell12@gmail.com](mailto:ksbcell12@gmail.com).
